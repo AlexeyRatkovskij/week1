@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "alex_wells",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
