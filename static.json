@@ -1,15 +1,20 @@
 {
+  "encoding": "UTF-8",
   "headers": {
     "/*": {
-      "X-Author": "alex_wells",
-      "Access-Control-Allow-Origin": "*"
+      "Access-Control-Allow-Origin": "*",
+      "Content-Type": "text/html; charset=UTF-8",
+      "X-Author": "alex_wells"
     },
     "/login/": {
       "Access-Control-Allow-Origin": "*",
-      "Content-Type": "text/plain; charset=UTF-8"
+      "Content-Type": "text/plain; charset=UTF-8",
+      "X-Author": "alex_wells"
     },
     "/sample/": {
-      "Content-Type": "text/plain"
+      "Access-Control-Allow-Origin": "*",
+      "Content-Type": "text/plain; charset=UTF-8",
+      "X-Author": "alex_wells"
     }
   }
 }
